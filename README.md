@@ -1,2 +1,2 @@
-# urql
+# URQL
 Universal Relational Query Language
